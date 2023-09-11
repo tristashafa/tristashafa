@@ -1,5 +1,5 @@
 <div align="center" width="500">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-b7316f79e5.gif" width="600">
+<img src="https://im.ezgif.com/tmp/ezgif-1-00bef4114f.gif" width="600">
 </div>
 <p align="center">
 Hello👋, I'am Trista Fadhila Shafa, an undergraduate student majoring in Geophysics at Gadjah Mada University.
